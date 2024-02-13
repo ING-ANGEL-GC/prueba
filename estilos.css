@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+}
+.contenedor{
+    background: cornflowerblue;
+    width: 100vW;
+    height: 100vh;
+    text-align: center;
+}
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#Y{
+transform: translate(-100%,0);
+}
+#N{
+    position: absolute;
+}
