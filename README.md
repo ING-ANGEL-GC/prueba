@@ -1,2 +1,2 @@
-# prueba
-codigo para parejas
+# un detalle par ti uwu
+
